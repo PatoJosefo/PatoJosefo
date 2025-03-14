@@ -20,5 +20,3 @@ My name is Rafael Guimarães da Silva Oliveira, and I am 18 years old. I was bor
   />
   
 </p>
-
--->
