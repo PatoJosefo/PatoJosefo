@@ -23,7 +23,7 @@ I am pursuing a degree in Cross-platform development at FATEC. I am an articulat
        <li>I have a deep passion for learning new languages, creating art through drawing, editing videos and images, and studying philosophy</li>
        <li>I excel in interpersonal skills, creative thinking, and effective communication. Mastering storytelling and corporal language is essential for an efficient and persuasive communication.</li>
        <li>Currently studying Cross-platform development at FATEC</li>
-       <li>I am a highly knowledgeable individual with extensive expertise in Grammar, History, Mathematics,Philosophy, Pseudoscience, Neuroscience and Languages</li>
+       <li>I am a highly knowledgeable individual with extensive expertise in Grammar, History, Mathematics, Philosophy, Pseudoscience, Neuroscience and Languages</li>
         </ul>
 </p>
 
