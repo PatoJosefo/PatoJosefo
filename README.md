@@ -7,8 +7,10 @@
 </div>
 
 <p align="center">
-My name is Rafael Guimarães da Silva Oliveira, and I am 18 years old. I was born in Belo Horizonte, Brazil. I completed my elementary education both in Brazil and Portugal. I graduated from high school at Colégio Inspire, located in São José dos Campos. I am fluent in English (both American and British varieties 🇬🇧🇺🇲), Portuguese (both Brazilian and European varieties 🇧🇷🇵🇹), a currently only have a grasp of the basics of French🇫🇷 and German🇩🇪. 
+My name is Rafael Guimarães da Silva Oliveira, and I am 18 years old. I was born in Belo Horizonte, Brazil. I completed my elementary education both in Brazil and Portugal. I graduated from high school at Colégio Inspire, located in São José dos Campos. I am fluent in English (both American and British varieties 🇬🇧🇺🇲), Portuguese (both Brazilian and European varieties 🇧🇷🇵🇹), I currently only have a grasp of the basics of French🇫🇷 and German🇩🇪. 
+</p>
 
+<p align="center">
 I am pursuing a degree in Cross-platform development at FATEC. I am an articulate and creative individual with a strong passion for innovation and discovery. I dedicate much of my free time to working and engaging in diverse academic pursuits to expand my knowledge and expertise.
 </p>
 
