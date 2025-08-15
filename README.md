@@ -6,6 +6,9 @@
 <h2>📌 ABOUT ME</h2>
 </div>
 
+<img width="343" height="261" align="left" alt="pngtree-classic-plato-statue-thinker-greek-famous-png-image_12089425" src="https://github.com/user-attachments/assets/7f1884ea-6977-4f40-bb54-4063e7b676d9" />
+
+
 <p align="center">
 My name is Rafael Guimarães da Silva Oliveira, and I am 18 years old. I was born in Belo Horizonte, Brazil. I completed my elementary education both in Brazil and Portugal. I graduated from high school at Colégio Inspire, located in São José dos Campos. I am fluent in English (both American and British varieties), Portuguese (both Brazilian and European varieties), I currently only have a grasp of the basics of French and German. 
 </p>
@@ -33,7 +36,7 @@ I am pursuing a degree in Cross-platform development at FATEC. I am an articulat
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,html,github,bootstrap,css,figma,linux,powershell&theme=dark"
+    <img src="https://skillicons.dev/icons?i=py,vscode,html,github,bootstrap,css,figma,linux,powershell,js&theme=dark"
   </a>
 </p>
 
@@ -49,4 +52,5 @@ I am pursuing a degree in Cross-platform development at FATEC. I am an articulat
     style="padding-right: 2fr;" 
     src="https://github-readme-stats.vercel.app/api?username=PatoJosefo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
+<img align="center" height='200'style="padding-right: 2fr;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoJosefo&layout=compact&theme=tokyonight" /> 
 </p>
